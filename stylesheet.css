@@ -22,4 +22,6 @@ header p {
 .footer {
 	display: flex;
 	justify-content: flex-end;
+  width: 80%;
+
 }
