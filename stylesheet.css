@@ -1,3 +1,24 @@
+header .row {
+	display: flex;
+	align-items: center;
+}
+
+header nav {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.jumbotron {
+	background-image: url(images/burning.jpg);
+	background-size: cover;
+	height: 700px;
+}
+
+header p {
+  padding: 0 20px;
+  margin: 0;
+}
+
 .footer {
 	display: flex;
 	justify-content: flex-end;
